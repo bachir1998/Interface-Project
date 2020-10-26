@@ -1,8 +1,9 @@
 # Interface-Project
 Artisanal Project
+
 1. Projet
-Conception Ergonomique d’interfaces Projet 1 - Création
-Site Legermain
+
+Conception Ergonomique d’interfaces Projet 1 - Création Site Legermain
  Un artisan souhaite exposer son activité sur Internet. Il vous contacte pour cela afin que vous réalisiez son site. Le but de ce site est de présenter l’activité de l’artisan, et d’en donner une image attractive et conforme à son identité.
 Vous aurez à assurer la conception et la réalisation de la partie client du site, en vous appuyant, autant que faire se peut, sur les notions et méthodes qui vous ont été présentées, de façon à optimiser la navigation, la diffusion des informations et l’expérience utilisateur.
 Le site devra être conçu et structuré par vos soins, et devra intégrer :
