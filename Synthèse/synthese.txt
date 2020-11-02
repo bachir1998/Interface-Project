@@ -1,3 +1,14 @@
 
 bonjour c'est qui le boss
 c'est toi, sans doute
+
+
+ #Bachir
+Le site Legermain est composé d’un certain nombre de pages web qui ont des buts spécifiques.
+ -	La page Contact :
+  Elle contient un formulaire de contact.
+  Ce formulaire est mis à la disposition des clients pour leur permettre de demander des informations ou devis.
+  Il est cadré selon les besoins et contient des champs précis à       remplir (nom, prénom, email, sujet etc…). 
+  Les réponses du formulaire seront traitées par un programme spécifique du site et envoyées par mail au destinataire.
+
+ 
